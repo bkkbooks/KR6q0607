@@ -21,7 +21,7 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6q0607_000.yaml, hash: 'sha256:a415b3b8295e3931291af102ff38f5bff76681b35e8985ce963643850c669c4a'}
+  - {seq: 0, filename: KR6q0607_000.yaml, hash: 'sha256:7f4fb2e03f9171218fdbe9d93411954751c077bb4a5457f86e03fddded97c79c'}
   - {seq: 1, filename: KR6q0607_001.yaml, hash: 'sha256:6b31901db799ffe6ca95171a0cb83268717af3059e15da4b21d1d61c7641814b'}
   - {seq: 2, filename: KR6q0607_002.yaml, hash: 'sha256:635034e8d91852154a5130c548efaf0b38f56b119203612b228f98eee2b61472'}
   - {seq: 3, filename: KR6q0607_003.yaml, hash: 'sha256:a0250e1763befa3a348b14a68cc45ac91a4b0e79062db622eec41815b1eccd9c'}
@@ -43,7 +43,7 @@ assets:
   - {seq: 19, filename: KR6q0607_019.yaml, hash: 'sha256:a16773045d84b33b3f80e82a95d3ddac2c48c98fcf8377714946eb1dbbc90773'}
   - {seq: 20, filename: KR6q0607_020.yaml, hash: 'sha256:9dd7a144876de17dc5dc9adc9eba1d2715cc8e1873d64bc505c75ccdebaa4f19'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0607_000.markers.yaml, hash: 'sha256:19e0bc5e256add54441aa1037893cd1123c6d052255191d69fc1fd93362a0ee3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0607_000.markers.yaml, hash: 'sha256:fbfb54095e06f11bbb769bdcb589cf964dea01bedf233476e701779e7839582f'}
   - {seq: 1, role: markers, filename: assets/KR6q0607_001.markers.yaml, hash: 'sha256:773576d5266ef3cf09b71af5d6db24195b08a50ac0c8861b9c03bed622a33178'}
   - {seq: 2, role: markers, filename: assets/KR6q0607_002.markers.yaml, hash: 'sha256:ddf0878276e46e6e99c2dfca847319fb9f52427e6452e58bcf9f3a163dbeb6ad'}
   - {seq: 3, role: markers, filename: assets/KR6q0607_003.markers.yaml, hash: 'sha256:577916e2278b221dafc755dc57e3568b175348a4704367622ec3da5a8884798b'}
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金之俊序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-3
     span:
-    - front
+    - body
     - 647
     - 647
   label: 張立廉序
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-4
     span:
-    - front
+    - body
     - 1268
     - 1268
   label: 祁駿佳序
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-5
     span:
-    - front
+    - body
     - 2028
     - 2028
   label: 詔書
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-6
     span:
-    - front
+    - body
     - 2366
     - 2366
   label: 敕書
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-7
     span:
-    - front
+    - body
     - 2732
     - 2732
   label: 贊
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-8
     span:
-    - front
+    - body
     - 2860
     - 2860
   label: 開堂疏
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-9
     span:
-    - front
+    - body
     - 2860
     - 2860
   label: 天童開堂疏
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-10
     span:
-    - front
+    - body
     - 3037
     - 3037
   label: 同門疏
@@ -169,7 +169,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-11
     span:
-    - front
+    - body
     - 3271
     - 3271
   label: 大能仁開堂疏
@@ -179,7 +179,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-12
     span:
-    - front
+    - body
     - 3600
     - 3600
   label: 道場山開堂疏
@@ -189,7 +189,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0607_L_000-mulu-13
     span:
-    - front
+    - body
     - 4013
     - 4013
   label: 目錄
@@ -2535,7 +2535,7 @@ table_of_contents:
   label: 御札
   type: mulu
   level: 1
-hash: sha256:2ce475fdd7fc1e95b6039b48fd7455b2b6fabea6bcea71dcfc95a1e86c0fabe2
+hash: sha256:ff1d5c1cc6ab75f8e3ee8efe6d4946011e09fb929a69e248ff3b25307e0ef48a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
